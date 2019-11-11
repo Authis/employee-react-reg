@@ -1,4 +1,4 @@
-FROM node:7-onbuild
+FROM node:10.16.0
 
 WORKDIR /usr/app
 
