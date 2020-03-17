@@ -61,7 +61,7 @@ class dashboard extends Component {
         <MuiThemeProvider>
           <div>
             <Typography className="loginTitle" component="h2" variant="h3" gutterBottom>
-              Employee Registration Capstone
+              Employee Registration Capstone DEMO
             </Typography>
 
               <TextField
